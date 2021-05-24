@@ -48,9 +48,8 @@ input("\n\n\nPress Enter to exit.")
 ```
 
 
-![alt text](https://github.com/rekit88/ITFnd100-Mod07-/blob/main/docs/Pickling1.jpg)
+![alt text](https://rekit88.github.io/ITFnd100-Mod07-/Pickling1.jpg)
 Figure 1
-![alt text](https://github.com/rekit88/ITFnd100-Mod07-/blob/main/docs/PickleFileCreated.jpg)
+![alt text](https://rekit88.github.io/ITFnd100-Mod07-/PickleFileCreated.jpg)
 Figure 2
 
-https://rekit88.github.io/ITFnd100-Mod07-/index.md
