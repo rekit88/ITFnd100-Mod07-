@@ -2,7 +2,7 @@
 **Dev:** *P.Timchenko*   
 **Date:** *5/23/2021*
 
-## “Pickling” is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.
+## Pickling is the process whereby a Python object hierarchy is converted into a byte stream, and “unpickling” is the inverse operation, whereby a byte stream (from a binary file or bytes-like object) is converted back into an object hierarchy.
 ## Description: A simple example of storing data in a binary file.
 
 ### Result of this script see Figure 1-2.
@@ -52,3 +52,5 @@ input("\n\n\nPress Enter to exit.")
 Figure 1
 ![alt text](https://github.com/rekit88/ITFnd100-Mod07-/blob/main/docs/PickleFileCreated.jpg)
 Figure 2
+
+https://rekit88.github.io/ITFnd100-Mod07-/index.md
