@@ -44,6 +44,7 @@ lstCustomer = [intId, strName]
 save_data_to_file(strFileName, lstCustomer)
 readCustomer = read_data_from_file(strFileName)
 print("\n", str(readCustomer), "\n")
+input("\n\n\nPress Enter to exit.")
 ```
 
 
